@@ -1,16 +1,16 @@
 module.exports = {
   title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  author: 'Jobins John', // Required
+  description: 'Mobile Applications Expert',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'http://www.jobins.me',
+    github: 'https://github.com/jobinsjohn',
+    twitter: 'https://twitter.com/jobins_john',
+    linkedin: 'https://www.linkedin.com/in/jobinsjohn/',
   },
   pathPrefix: '/devblog',
   siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
